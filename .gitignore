@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Blender auto-generated
+*.blend1
+*.blend@
+*.pyc
+
+# OS
+.DS_Store
+Thumbs.db

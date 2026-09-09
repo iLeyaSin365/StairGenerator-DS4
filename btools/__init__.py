@@ -1,0 +1,1 @@
+from .stair import register_stairs, unregister_stairs
